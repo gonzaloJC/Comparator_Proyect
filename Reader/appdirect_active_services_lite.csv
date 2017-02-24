@@ -1,0 +1,43 @@
+73d8d23d-4b61-4f58-964a-111111111111,"Bremner Morris",CLOUDFOUNDRY,mLab,"addon-based service",ACTIVE
+b59ea8b3-245a-4f14-8dad-0,"space-guid-ce81dfda-4eea-4e83-a49c-26384b9b24ca space-go.cloudfoundry.com",CLOUDFOUNDRY,"Redis Cloud","addon-based service",FAILED
+73abed51-abcb-42b5-b822-0,"space-guid-ce81dfda-4eea-4e83-a49c-26384b9b24ca space-go.cloudfoundry.com",CLOUDFOUNDRY,"Redis Cloud","addon-based service",FAILED
+640f096d-84f4-4fa2-a86d-0,"space-guid-ce81dfda-4eea-4e83-a49c-26384b9b24ca space-go.cloudfoundry.com",CLOUDFOUNDRY,"Redis Cloud","addon-based service",FAILED
+d0455530-dcd1-4511-bcea-0,"space-guid-c2997679-6b90-4358-acda-ead834122761 space-run.pivotal.io",CLOUDFOUNDRY,CloudAMQP,"addon-based service",FAILED
+4594d5a1-595b-4e41-9f2c-0,"space-guid-c2997679-6b90-4358-acda-ead834122761 space-run.pivotal.io",CLOUDFOUNDRY,"Redis Cloud","addon-based service",ACTIVE
+646121f4-91e4-4340-85f4-0,"space-guid-c2997679-6b90-4358-acda-ead834122761 space-run.pivotal.io",CLOUDFOUNDRY,"Redis Cloud","addon-based service",ACTIVE
+d2972769-e029-4da8-9d79-0,"space-guid-c2997679-6b90-4358-acda-ead834122761 space-run.pivotal.io",CLOUDFOUNDRY,"Redis Cloud","addon-based service",ACTIVE
+2121c058-3849-4b44-95ab-0,"space-guid-b579d641-b1c4-4ca6-8962-8c8d60f1fde8 space-run.pivotal.io",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+aba8417c-8b04-4e92-b9cf-0,"space-guid-b579d641-b1c4-4ca6-8962-8c8d60f1fde8 space-run.pivotal.io",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+26a5da61-f2db-4e80-8819-0,"space-guid-b579d641-b1c4-4ca6-8962-8c8d60f1fde8 space-run.pivotal.io",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+315b16e1-0336-4b5d-a1d9-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+35b3313c-93f0-466a-847c-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",ACTIVE
+66318f41-9921-4984-8353-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",ACTIVE
+e91c49f2-fc4f-4bee-bee1-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",ACTIVE
+c239e912-9e69-4d32-bc09-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",ACTIVE
+fac444ed-9574-4fc0-85a5-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",ACTIVE
+25734365-d0e6-4ab4-b3b0-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+a251ea7f-5f3e-4dd6-ac33-0,"MongoLab Corp",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+735d00d3-d233-4e63-a203-0,"Space fd06a447-9ae9-4ea7-b2d2-45aeaba0ee04",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+63bb50ed-10e8-438c-99b9-0,"Space fd06a447-9ae9-4ea7-b2d2-45aeaba0ee04",CLOUDFOUNDRY,SendGrid,"addon-based service",FAILED
+a4e42acd-b573-4690-a812-0,"Space fd06a447-9ae9-4ea7-b2d2-45aeaba0ee04",CLOUDFOUNDRY,SendGrid,"addon-based service",FAILED
+b8aa6ccc-f61b-490f-95f4-0,"Space fd06a447-9ae9-4ea7-b2d2-45aeaba0ee04",CLOUDFOUNDRY,SendGrid,"addon-based service",FAILED
+ecf71066-a154-4bae-92b3-0,"Space fd06a447-9ae9-4ea7-b2d2-45aeaba0ee04",CLOUDFOUNDRY,SendGrid,"addon-based service",FAILED
+fbec246c-a612-44fd-86b8-0,"Space fd06a447-9ae9-4ea7-b2d2-45aeaba0ee04",CLOUDFOUNDRY,SendGrid,"addon-based service",FAILED
+fe9eb364-4c9b-4191-a365-0,"Space fd06a447-9ae9-4ea7-b2d2-45aeaba0ee04",CLOUDFOUNDRY,SendGrid,"addon-based service",FAILED
+1da6c883-739d-476d-a355-0,"space-guid-d47ea79f-b7aa-4d38-afdb-3c36a9bb244c space-go.cloudfoundry.com",CLOUDFOUNDRY,ElephantSQL,"addon-based service",ACTIVE
+070d3825-4ef0-4141-b985-0,"Space 5f8b19b7-612e-4775-9f4d-4a431d7ce7b7",CLOUDFOUNDRY,"Redis Cloud","addon-based service",ACTIVE
+0f10f1fa-9e8a-4de8-a246-0,"Space 304a836f-af1f-47d7-a0fe-68689defad10",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+1d89c628-ca82-4e7c-9c45-0,"Space 304a836f-af1f-47d7-a0fe-68689defad10",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+4622b306-aa7e-449a-98c5-0,"Space 304a836f-af1f-47d7-a0fe-68689defad10",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+bdb0b406-0072-4738-856b-0,"Space 304a836f-af1f-47d7-a0fe-68689defad10",CLOUDFOUNDRY,mLab,"addon-based service",FAILED
+4f489803-0a4a-48e1-9b64-0,"Space 304a836f-af1f-47d7-a0fe-68689defad10",CLOUDFOUNDRY,mLab,"addon-based service",ACTIVE
+0f44def6-21f8-4cf5-8333-0,"Space 7ebd5728-1b08-4025-8545-06caa295c9fa",CLOUDFOUNDRY,CloudAMQP,"addon-based service",FAILED
+1eb25913-5f3f-4a9e-8d42-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,CloudAMQP,"addon-based service",ACTIVE
+00e09e0e-c126-46c8-aea0-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,"ClearDB MySQL Database","addon-based service",ACTIVE
+04dfeb3e-26f7-463d-823b-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,"ClearDB MySQL Database","addon-based service",ACTIVE
+05df85e0-bcc2-458e-b78e-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,"ClearDB MySQL Database","addon-based service",ACTIVE
+19dfdd71-86e5-4489-8467-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,"ClearDB MySQL Database","addon-based service",ACTIVE
+6551afb5-2085-48ae-ab9a-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,"ClearDB MySQL Database","addon-based service",ACTIVE
+8c9989b4-1004-4613-95f8-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,"ClearDB MySQL Database","addon-based service",ACTIVE
+1806626d-13ee-4f19-9ea4-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,"New Relic","addon-based service",ACTIVE
+74ba9829-9083-4749-8067-0,"Space f2123851-d195-456a-a238-073674dedb28",CLOUDFOUNDRY,CloudAMQP,"addon-based service",ACTIVE
