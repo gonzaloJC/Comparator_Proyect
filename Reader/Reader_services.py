@@ -1,7 +1,7 @@
 import sys
 
 class serviceInstances:
-    serviceInstanceId = ""
+    serviceInstanceId = " "
     userName = ""
     partner = ""
     applicationName = ""
